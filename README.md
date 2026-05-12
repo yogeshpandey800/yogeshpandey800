@@ -1,4 +1,4 @@
-# Hi there, I'm Yogesh Kumar Pandey 👋
+# Hi there, I'm Yogesh Kumar Pandey 
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=%3C+Web+Developer+%2F%3E;MERN+Stack+Enthusiast;Building+real-world+apps" alt="Typing SVG" />
@@ -6,19 +6,19 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
-- 🎓 MCA student at **MMMUT, Gorakhpur** (2024–2026)
-- 💻 Full-stack developer specializing in the **MERN stack**
-- 🔐 Experienced with **JWT auth**, **Socket.IO**, **REST APIs**, and **Cloudinary**
-- 🌱 Passionate about building impactful, real-world software
-- 📍 Based in Gorakhpur, Uttar Pradesh, India
+- MCA student at **MMMUT, Gorakhpur** (2024–2026)
+- Full-stack developer specializing in the **MERN stack**
+- Experienced with **JWT auth**, **Socket.IO**, **REST APIs**, and **Cloudinary**
+- Passionate about building impactful, real-world software
+- Based in Gorakhpur, Uttar Pradesh, India
 
 ---
 
-## 🚀 Projects
+## Projects
 
-### 🛒 [CampusBuy – Campus Marketplace Platform](https://github.com/yogeshpandey800)
+### [CampusBuy – Campus Marketplace Platform](https://github.com/yogeshpandey800)
 > Feb 2026 – Apr 2026
 
 A campus-specific peer-to-peer marketplace built with the MERN stack.
@@ -29,7 +29,7 @@ A campus-specific peer-to-peer marketplace built with the MERN stack.
 
 ---
 
-### 🔨 [Online Bidding App](https://github.com/yogeshpandey800)
+### [Online Bidding App](https://github.com/yogeshpandey800)
 > Sept 2025 – Nov 2025
 
 A real-time web auction platform for competitive bidding.
@@ -39,7 +39,7 @@ A real-time web auction platform for competitive bidding.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -77,7 +77,7 @@ A real-time web auction platform for competitive bidding.
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yogeshpandey800&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
@@ -86,17 +86,17 @@ A real-time web auction platform for competitive bidding.
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
-- ⭐ **5-star rating** on HackerRank in Java
-- 💡 Solved **100+ DSA problems** on LeetCode using Java
-- 🐳 Certified in **Docker Essentials: A Developer Introduction**
-- 🔒 Certified in **Cybersecurity Fundamentals**
-- 🏢 **Certificate of Internship – CDAC**
+- **5-star rating** on HackerRank in Java
+- Solved **100+ DSA problems** on LeetCode using Java
+- Certified in **Docker Essentials: A Developer Introduction**
+- Certified in **Cybersecurity Fundamentals**
+- **Certificate of Internship – CDAC**
 
 ---
 
-## 📬 Connect with Me
+## Connect with Me
 
 <div align="center">
 
