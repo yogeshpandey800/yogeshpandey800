@@ -12,7 +12,7 @@
 - Full-stack developer specializing in the **MERN stack**
 - Experienced with **JWT auth**, **Socket.IO**, **REST APIs**, and **Cloudinary**
 - Passionate about building impactful, real-world software
-- Based in Gorakhpur, Uttar Pradesh, India
+- Based in Noida, Uttar Pradesh, India
 
 ---
 
